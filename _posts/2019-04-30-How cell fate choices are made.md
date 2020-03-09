@@ -51,7 +51,7 @@ As transcriptome represents characteristics of cell, single cell RNA seq (scRNA-
 
 Given the initial state cell as a input, **pseudo-time** is defined as **relative distance from the initial state cell**. 
 
-* Firstly, it is necessary to **refine the edge attributes of the graph in the embedded space**. Distance between cells is defined as diffusion distance which use the number of steps,denoted as *t*. Since there is tremendous amount of paths between cells (if network is complicated), it is hard to choose *t* as a parameter. Therefore, **multi-scale distance** is used instead, where *t* is marginalized out.
+* Firstly, it is necessary to **refine the edge attributes of the graph in the embedded space**. Distance between cells is defined as diffusion distance which use the number of steps, denoted as *t*. Since there is tremendous amount of paths between cells (if network is complicated), it is hard to choose *t* as a parameter. Therefore, **multi-scale distance** is used instead, where *t* is marginalized out.
 
 <center><figure>
 	<img src="https://i.imgur.com/UexcRXD.jpg">
