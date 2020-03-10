@@ -62,7 +62,7 @@ Given the initial state cell as a input, **pseudo-time** is defined as **relativ
 * Finally, let's calculate pseudo-time. Pseudo-time is defined as relative distance from the starting cell. Since waypoints are selected as major trends of differentiation, it is reasonable **to compute distance exploiting the waypoints**. The measure which uses waypoints to compute distance is called waypoint perspective. Waypoint perspective is computed for each waypoint. \\( \tau_{i} \\) represents the distance from the starting cell of pseudo-time to a cell *i*, \\( S^{'} \\) while \\( \tau_{w_{i}} \\) represents the distance to a waypoint \\( w_{i} \\). The distance from a cell *i* to a waypoint \\( w_{i} \\) is represented as \\( D_{w_{i}} \\). Initially, pseudo-time is initialized as  \\( \tau_{i} \\). According to the equation below, perspective of a cell *i* relative to waypoint *w*, denoted as \\( V_{wi} \\) is computed. Pseudo-time is then calculated as a weighted average of waypoint perspectives. These procedure is executed iteratively until the convergence, so that the **psuedo-time is refined**.
 
   <center><figure>
-  	<img src="/_posts/img/post2_Fig2.2_pseudo-time_ordering.jpg">
+  	<img src="https://i.imgur.com/2Z7WiyO.jpg">
   </figure></center>
 
 ***
