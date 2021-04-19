@@ -31,7 +31,7 @@ Hongryul Ahn<sup><span>&#8224;</span> </sup> , Kyuri Jo<sup><span>&#8224;</span>
 
 <br><br>
 
-<a href="https://academic.oup.co style="text-decoration:none" hover="text_decoration:underline"><font size="+1"><b>TRRUST v2: an expanded reference database of human and mouse transcriptional regulatory interactions</b></font></a>
+<a href="https://academic.oup.com/nar/article/46/D1/D380/4566018" style="text-decoration:none" hover="text_decoration:underline"><font size="+1"><b>TRRUST v2: an expanded reference database of human and mouse transcriptional regulatory interactions</b></font></a>
 
 Heonjong Han, Jae-Won Cho, Sangyoung Lee, Ayoung Yun, Hyojin Kim, Dasom Bae, Sunmo Yang, Chan Yeong Kim, Muyoung Lee, Eunbeen Kim, Sungho Lee, Byunghee Kang, <b><u>Dabin Jeong</b></u>, Yaeji Kim, Hyeon-Nae Jeon, Haein Jung, Sunhwee Nam, Michael Chung, Jong-Hoon Kim and Insuk Lee <sup>&#65290;</sup>
 
