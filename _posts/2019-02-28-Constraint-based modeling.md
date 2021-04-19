@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Constraint-based model"
+title:  "How to infer metabolite abundace"
 date:   2019-02-28
-excerpt: "How to model metabolic network: constraint-based model"
+excerpt: "How to infer metabolite abundace in metabolic network: constraint-based model"
 tag:
 - metabolism
 - constraint-based model
