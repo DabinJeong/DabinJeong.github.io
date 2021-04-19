@@ -10,7 +10,7 @@ tag:
 comments: true
 ---
 
-<h1> Constraint-based model for metabolic modeling </h1>
+<h1> How to infer metabolite abundace </h1>
 <hr>
 What we eat consists us. The chocolate I ate breaks down into carbohydrates when passing through digestive organs, and cell absorb carbohydrates to make energy or to make building blocks for the body. In this sense, metabolism is the way of organisms interacting with the environment. 
 
