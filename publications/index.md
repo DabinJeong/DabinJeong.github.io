@@ -1,3 +1,9 @@
+<a href="https://www.frontiersin.org/articles/10.3389/fgene.2021.652623/abstract" style="text-decoration:none" hover="text_decoration:underline"><font size="+1"><b>Construction of Condition-Specific Gene Regulatory Network using Kernel Canonical Correlation Analysis</b></font></a>
+
+ <u><b>Dabin Jeong</b></u>, Sangsoo Lim, Sangseon Lee, Minsik Oh, Changyun Cho, Hyeju Seong, Woosuk Jung and Sun Kim<sup>&#65290;</sup>
+
+2021, Frontiers in Genetics (In press)
+
 <br><br>
 
 <a href="https://www.frontiersin.org/articles/10.3389/fgene.2020.564792/full" style="text-decoration:none" hover="text_decoration:underline"><font size="+1"><b>DRIM: A Web-Based System for Investigating Drug Response at the Molecular Level by Condition-Specific Multi-Omics Data Integration</b></font></a>
