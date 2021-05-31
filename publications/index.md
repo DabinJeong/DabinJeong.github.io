@@ -2,7 +2,7 @@
 
  <u><b>Dabin Jeong</b></u>, Sangsoo Lim, Sangseon Lee, Minsik Oh, Changyun Cho, Hyeju Seong, Woosuk Jung and Sun Kim<sup>&#65290;</sup>
 
-2021, Frontiers in Genetics (In press)
+2021, Frontiers in Genetics
 
 <br><br>
 
