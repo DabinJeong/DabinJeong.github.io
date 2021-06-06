@@ -10,5 +10,5 @@ I am ph.D candidate in <a href="https://bhi-kimlab.github.io" hover="text_decora
 <img alt="R" src="https://img.shields.io/badge/-R-green?style=flat-squre&logo=R&logoColor=white"/>
 <img alt="Shell script" src="https://img.shields.io/badge/-Shell%20script-green?style=flat-squre&logo=PowerShell&logoColor=white"/>
 <img alt="Snakemake" src="https://img.shields.io/badge/-Snakemake-green"/>
-<img alt="Git" src="https://img.shields.io/badge/-Git-green?style=flat-squre&logo=GitHub&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/-Git-green?style=flat-squre&logo=Git&logoColor=white"/>
 </span>
