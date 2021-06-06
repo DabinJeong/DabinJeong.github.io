@@ -5,8 +5,8 @@ I am ph.D candidate in <a href="https://bhi-kimlab.github.io" hover="text_decora
 
 <br><br>
 <h4> Technology stack </h4>
-![badge1](https://img.shields.io/badge/-Python-green?style=flat-squre&logo=Python&logoColor=white)
-![badge2](https://img.shields.io/badge/-R-green?style=flat-squre&logo=R&logoColor=white)
-![badge3](https://img.shields.io/badge/-Shell%20script-green?style=flat-squre&logo=PowerShell&logoColor=white)
-![badge4](https://img.shields.io/badge/-Snakemake-green)
-![badge5](https://img.shields.io/badge/-Git-green?style=flat-squre&logo=GitHub&logoColor=white)
+![Generic badge](https://img.shields.io/badge/-Python-green?style=flat-squre&logo=Python&logoColor=white)
+![Generic badge](https://img.shields.io/badge/-R-green?style=flat-squre&logo=R&logoColor=white)
+![Generic badge](https://img.shields.io/badge/-Shell%20script-green?style=flat-squre&logo=PowerShell&logoColor=white)
+![Generic badge](https://img.shields.io/badge/-Snakemake-green)
+![Generic badge](https://img.shields.io/badge/-Git-green?style=flat-squre&logo=GitHub&logoColor=white)
