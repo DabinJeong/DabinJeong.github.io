@@ -7,7 +7,7 @@ I am ph.D candidate in <a href="https://bhi-kimlab.github.io" hover="text_decora
 <h4> Technology stack </h4>
 <style type="text/css">
   .images-container a img {
-    display: inline;
+    display: inline !important;
   }
 </style>
 <div class="images-container" style="display: block; margin: 0 auto; float: left;">
